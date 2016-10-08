@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SilkComplier.iml" filepath="$PROJECT_DIR$/SilkComplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SilkComplier.iml" filepath="$PROJECT_DIR$/SilkComplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/silkannotation/silkannotation.iml" filepath="$PROJECT_DIR$/silkannotation/silkannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silkannotation/silkannotation.iml" filepath="$PROJECT_DIR$/silkannotation/silkannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silkcomplier/silkcomplier.iml" filepath="$PROJECT_DIR$/silkcomplier/silkcomplier.iml" />
       <module fileurl="file://$PROJECT_DIR$/silkcomplier/silkcomplier.iml" filepath="$PROJECT_DIR$/silkcomplier/silkcomplier.iml" />
     </modules>
   </component>
